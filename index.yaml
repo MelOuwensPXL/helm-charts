@@ -3,7 +3,7 @@ entries:
   devops-fullstack-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-03T22:45:08.134194311+01:00"
+    created: "2021-12-03T22:46:22.657674153+01:00"
     description: An fullstack helm for the 3SNB CloudServices exercise
     digest: 06913f11dbb3bc4fe49fa9107dbbe4c35228292f4cc0d254be637113f77b78e0
     name: devops-fullstack-helm
@@ -13,7 +13,7 @@ entries:
     version: 0.2.9
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-03T22:45:08.133430519+01:00"
+    created: "2021-12-03T22:46:22.657445494+01:00"
     description: An fullstack helm for the 3SNB CloudServices exercise
     digest: 67f485bd2e5670048152dcd0376aa93b0f4977d3de4a81aed4db5e73d4b38b55
     name: devops-fullstack-helm
@@ -23,7 +23,7 @@ entries:
     version: 0.2.8
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-03T22:45:08.133118063+01:00"
+    created: "2021-12-03T22:46:22.657231333+01:00"
     description: An fullstack helm for the 3SNB CloudServices exercise
     digest: 43cc0aa543a1122505cc32be3b815a2b263ada26c25029183fd04e02b0733764
     name: devops-fullstack-helm
@@ -31,4 +31,4 @@ entries:
     urls:
     - https://ouwensmaxpxl.github.io/helm-charts/devops-fullstack-helm-0.2.7.tgz
     version: 0.2.7
-generated: "2021-12-03T22:45:08.132361344+01:00"
+generated: "2021-12-03T22:46:22.656889712+01:00"
